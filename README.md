@@ -1,2 +1,2 @@
 # githubpractice
-trying to get how GitHub works along with the git 
+trying to get how GitHub works along with the git on Readme 
